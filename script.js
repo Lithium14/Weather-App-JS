@@ -1,4 +1,4 @@
-let ville = 'Paris';
+let ville;
 recevoirTemperature(ville);
 
 let changerDeVille = document.querySelector('#changer');
